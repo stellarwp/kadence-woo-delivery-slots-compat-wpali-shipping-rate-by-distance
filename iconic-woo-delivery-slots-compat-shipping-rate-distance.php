@@ -1,10 +1,10 @@
 <?php
 /**
- * Plugin Name:     WooCommerce Delivery Slots by Iconic [WpAli: Shipping Rate by Distance]
+ * Plugin Name:     WooCommerce Delivery Slots by Kadence [WpAli: Shipping Rate by Distance]
  * Plugin URI:      https://iconicwp.com/products/woocommerce-delivery-slots/
- * Description:     Compatibility between WooCommerce Delivery Slots by Iconic and Shipping Rate by distance by Ali Khallad
- * Author:          Iconic
- * Author URI:      https://iconicwp.com/
+ * Description:     Compatibility between WooCommerce Delivery Slots by Kadence and Shipping Rate by distance by Ali Khallad
+ * Author:          Kadence WP
+ * Author URI:      https://www.kadencewp.com/
  * Text Domain:     iconic-woo-delivery-slots-compat-wpali-srbd
  * Domain Path:     /languages
  * Version:         0.1.0
